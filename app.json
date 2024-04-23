@@ -8,7 +8,7 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Enter Your Session ID",
+      "description": "Phoenix~0612c37980efce18511250ef59617100",
       "required": true
     },
     "HANDLERS": {
@@ -19,7 +19,7 @@
     "SUDO": {
       "description": "Enter Numbers With Country Code Without + Separated With , To Add More Numbers",
       "required": false,
-      "value": "919074692450"
+      "value": "628296618973"
     },
     "SPAM_COUNT": {
       "description": "Enter Number Of Times To Send Spam Message Using .spam Command",
@@ -34,12 +34,12 @@
     "OWNER_NAME": {
       "description": "Enter Your Owner Name",
       "required": false,
-      "value": "Abhishek Suresh"
+      "value": "MIRACLE-MD"
     },
     "OWNER_NUMBER": {
       "description": "Enter Your Owner Number",
       "required": false,
-      "value": "919074692450"
+      "value": "6282196618973
     },
     "BOT_NAME": {
       "description": "Enter Your Bot Name",
